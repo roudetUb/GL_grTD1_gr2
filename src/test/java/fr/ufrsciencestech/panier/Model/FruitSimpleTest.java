@@ -27,6 +27,9 @@ public class FruitSimpleTest {
     
     @AfterClass
     public static void tearDownClass() {
+        
+        
+        
     }
     
     @Before
