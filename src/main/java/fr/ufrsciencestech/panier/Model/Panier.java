@@ -175,9 +175,9 @@ public class Panier extends Observable {
         return cpt;
     }
     
-    /*public static void main (String[] args){
-        Orange o1 = new Orange(0.50,"France");
-        Orange o2 = new Orange(0.60,"Italie");
+    public static void main (String[] args){
+        Cerise o1 = new Cerise(0.50,"France");
+        Banane o2 = new Banane(0.60,"Italie");
         Orange o3 = new Orange(0.40,"Espagne");
         Panier p2 = new Panier(2);
         Panier p3 = new Panier(3);
@@ -218,5 +218,5 @@ public class Panier extends Observable {
         } catch (PanierPleinException ex) {
             
         } 
-    }*/
+    }
 }
