@@ -28,6 +28,8 @@ public class ControleurTest {
     ActionEvent edec;
 
     public ControleurTest() {
+        
+        
     }
     
     @Before

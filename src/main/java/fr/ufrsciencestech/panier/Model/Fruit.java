@@ -18,3 +18,4 @@ public interface Fruit {
     @Override
     public String toString();
 }
+
